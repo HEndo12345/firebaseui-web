@@ -1,7 +1,7 @@
 {
-  "name": "firebaseui",
+  "name": "japanese-firebaseui",
   "version": "4.8.1",
-  "description": "Javascript library for customizable UI on top of Firebase SDK",
+  "description": "Japanese firebaseui",
   "files": [
     "dist/**/*",
     "LICENSE",
@@ -26,10 +26,7 @@
   "author": "Google",
   "repository": {
     "type": "git",
-    "url": "https://github.com/firebase/firebaseui-web.git"
-  },
-  "publishConfig": {
-    "registry": "https://wombat-dressing-room.appspot.com"
+    "url": "https://github.com/HEndo12345/firebaseui-web"
   },
   "license": "Apache-2.0",
   "devDependencies": {
