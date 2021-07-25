@@ -1,3 +1,7 @@
+# 日本語版 firebaseui/ Japanese firebaseui
+version 4.8.1の日本語ビルドです。
+Japanese build of version 4.8.1.
+
 [![Build Status](https://travis-ci.org/firebase/firebaseui-web.svg?branch=master)](https://travis-ci.org/firebase/firebaseui-web)
 
 # FirebaseUI for Web — Auth
