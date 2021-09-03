@@ -187,7 +187,7 @@
 <translation id="4011940631682920330">アクション コードが無効です。この問題は、コードの形式が誤っているか期限が切れている、またはコードがすでに使用されている場合に発生する可能性があります。</translation>
 <translation id="4022450612826261789">コソボ</translation>
 <translation id="4025579119565425333">以下の一般的な解決方法をお試しください。</translation>
-<translation id="4056653682525186486"><ph name="XXX" /> でログイン</translation>
+<translation id="4056653682525186486"><ph name="XXX" /> でログイン　　　またはユーザー登録</translation>
 <translation id="4064888056475403511">ログイン プロセスを開始したときと同じデバイスまたはブラウザを使用してリンクを開いてみてください。</translation>
 <translation id="4066104405592701692">エストニア</translation>
 <translation id="4147949012570877154">削除</translation>
@@ -214,7 +214,7 @@
 <translation id="4521614244485847733">メールアドレスが既存のアカウントと一致しません</translation>
 <translation id="4556476996891737119">ヨルダン</translation>
 <translation id="4571870355114729513"><ph name="START_STRONG" /><ph name="EMAIL" /><ph name="END_STRONG" /> に送信された手順に沿ってパスワードを復元します</translation>
-<translation id="4588392627302012849">メールでログイン</translation>
+<translation id="4588392627302012849">メールでログイン　　　またはユーザー登録</translation>
 <translation id="4595119411041064617">[<ph name="PH_1" />] をタップすると、SMS が送信されます。データ通信料がかかることがあります。</translation>
 <translation id="4632709875751031323">ロシア</translation>
 <translation id="4644169548516814280">このメールアドレスは他のアカウントによってすでに使用されています</translation>
@@ -254,7 +254,7 @@
 <translation id="5326139833547026317">オランダ領カリブ</translation>
 <translation id="5347459868860672391">メールアドレスを更新しました</translation>
 <translation id="5397737236938796917">ログアウトが完了しました。</translation>
-<translation id="5406620662929585965">電話番号でログイン</translation>
+<translation id="5406620662929585965">電話番号でログイン　　　またはユーザー登録</translation>
 <translation id="5407010562344541906">電話番号</translation>
 <translation id="5409861738809250803">アカウントをすでにお持ちです</translation>
 <translation id="5410341463946781720">タイ</translation>
@@ -270,7 +270,7 @@
 <translation id="5543493820882105191">名前を入力</translation>
 <translation id="55439745111619380">アセンション島</translation>
 <translation id="5569341882117077010">ネットワーク エラーが発生しました</translation>
-<translation id="5581239183924693195"><ph name="IDP_DISPLAY_NAME" /> でログイン</translation>
+<translation id="5581239183924693195"><ph name="IDP_DISPLAY_NAME" /> でログイン　　　またはユーザー登録</translation>
 <translation id="5585451911077299623">パスワードを設定</translation>
 <translation id="5602886107840188229">英領インド洋地域</translation>
 <translation id="5604510594682955626">ウガンダ</translation>
@@ -396,7 +396,7 @@
 <translation id="7283725113395426048">同時実行の競合（読み取り - 変更 - 書き込みの競合など）。</translation>
 <translation id="7290147808482957603">API メソッドはサーバーによって実装されていません。</translation>
 <translation id="7291567990403335374">レソト</translation>
-<translation id="7291656724505689727">電話番号でログイン</translation>
+<translation id="7291656724505689727">電話番号でログイン　　　またはユーザー登録</translation>
 <translation id="7320029088567935126">メールアドレスを再度確認してください</translation>
 <translation id="7331038350037712642">アゼルバイジャン</translation>
 <translation id="7359542696390093035">権限がありません</translation>
@@ -421,7 +421,7 @@
 <translation id="786166109137986817"><ph name="DISPLAY_NAME" /> にログイン</translation>
 <translation id="7868540442111212282">チェコ共和国</translation>
 <translation id="7874584525604421364">ツバル</translation>
-<translation id="7926046652648626866">GitHub でログイン</translation>
+<translation id="7926046652648626866">GitHub でログイン　　　またはユーザー登録</translation>
 <translation id="792838323404934335">グリーンランド</translation>
 <translation id="7956645158976161232">リビア</translation>
 <translation id="8017277252219866084">ケニア</translation>
